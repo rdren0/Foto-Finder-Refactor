@@ -1,5 +1,5 @@
 ### Foto-Finder
-
+This was a prework we were assigned that required us to refactor an old project with ES6 and JQuery syntax.
 
 
 This was a solo project to recreate a website based on its picture comp and a variety of features.
