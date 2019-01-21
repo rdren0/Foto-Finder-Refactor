@@ -1,5 +1,7 @@
 ### Foto-Finder
-## This was a prework we were assigned that required us to refactor an old project with ES6 and JQuery syntax.
+This was a prework we were assigned that required us to refactor an old project with ES6 and JQuery syntax.
+
+You can find my previous project at: https://github.com/rdren0/Foto-Finder
 
 
 The responsive Site on GithubPages:
