@@ -5,7 +5,7 @@ You can find my previous project at: https://github.com/rdren0/Foto-Finder
 
 
 The responsive Site on GithubPages:
-https://rdren0.github.io/Foto-Finder/
+ https://rdren0.github.io/Foto-Finder-Refactor/
 
 
 
@@ -20,4 +20,4 @@ Here is the design we were asked to recreate:
 ![Foto-Finder](images/Mobile-Comp.png)
 
 The responsive Site on GithubPages:
-https://rdren0.github.io/Foto-Finder/
+ https://rdren0.github.io/Foto-Finder-Refactor/
