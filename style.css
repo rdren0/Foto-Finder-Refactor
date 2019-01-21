@@ -43,6 +43,7 @@ h2{
 .h2-input{
   color: #C2B2B4;
   font-weight: 600;
+  border-right: none;
 }
 
 h3{
@@ -137,6 +138,7 @@ justify-content: flex-end;
   height: 50px;
   border-radius: 10px 0px 0px 10px;
   border: 2px solid #C2B2B4;
+  border-right: none;
 }
 
 .search-bar button{
